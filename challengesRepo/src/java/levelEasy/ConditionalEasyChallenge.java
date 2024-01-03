@@ -1,3 +1,5 @@
+package java.levelEasy;
+
 import java.util.Scanner;
 
 public class ConditionalEasyChallenge {

@@ -1,3 +1,5 @@
+package java.levelEasy;
+
 public class HelloWorldChallenge {
 
     public static void main(String[] args) {
