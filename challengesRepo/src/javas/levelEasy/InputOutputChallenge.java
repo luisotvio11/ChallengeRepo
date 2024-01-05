@@ -1,4 +1,4 @@
-package java.levelEasy;
+package javas.levelEasy;
 
 import java.util.Scanner;
 
